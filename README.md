@@ -1,2 +1,2 @@
 # Example
-An example greeter plugin
+This is the beginning of developement for the multiscaper plugin
